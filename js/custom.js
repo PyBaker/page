@@ -3,7 +3,7 @@
 // PRELOADER
 
 $(window).load(function () {
-	$('.preloader').delay(500).fadeOut("slow"); // set duration in brackets    
+	$('.preloader').delay(300).fadeOut("slow"); // set duration in brackets    
 });
 
 

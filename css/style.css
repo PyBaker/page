@@ -87,7 +87,7 @@ h2 {
 .languages,
 .contact,
 .experience {
-  padding: 40px;
+  padding: 30px;
   min-height: 330px;
 }
 
@@ -181,8 +181,8 @@ header {
   min-height: 400px;
   overflow: hidden;
   position: relative;
-  padding-top: 160px;
-  padding-bottom: 140px;
+  padding-top: 80px;
+  padding-bottom: 40px;
 }
 header img {
   display: inline-block !important;
